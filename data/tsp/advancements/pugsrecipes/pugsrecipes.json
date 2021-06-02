@@ -1,0 +1,17 @@
+{
+     "criteria": {
+          "trigger": {
+               "trigger": "minecraft:tick"
+          }
+     },
+     "display": {
+          "announce_to_chat": false,
+          "description": "A collection of generic recipe datapacks",
+          "icon": {
+               "item": "minecraft:knowledge_book"
+          },
+          "show_toast": false,
+          "title": "Pug's Recipe Additions"
+     },
+     "parent": "global:tsp"
+}

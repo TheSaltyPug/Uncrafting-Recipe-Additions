@@ -1,0 +1,17 @@
+{
+     "criteria": {
+          "trigger": {
+               "trigger": "minecraft:tick"
+          }
+     },
+     "display": {
+          "announce_to_chat": false,
+          "description": "More uncrafting and unpacking",
+          "icon": {
+               "item": "minecraft:packed_ice"
+          },
+          "show_toast": false,
+          "title": "Uncrafting"
+     },
+     "parent": "tsp:pugsrecipes/pugsrecipes"
+}
